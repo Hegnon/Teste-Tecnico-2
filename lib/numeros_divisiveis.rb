@@ -1,10 +1,8 @@
 # frozen_string_literal: true
-
-require_relative "numeros_divisiveis/git version"
-
-module Numeros_divisiveis
+require_relative "numeros_divisiveis/version"
+module NumerosDivisiveis
   class Error < StandardError; end
-  def numeros_divisiveis(x, y, w)
+  def self.numeros_divisiveis(x, y, w)
     numeros_divisiveis = []
 
     (x..y).each do |numero|
@@ -15,11 +13,5 @@ module Numeros_divisiveis
 
     return numeros_divisiveis
   end
-
-  x = 1
-  y = 20
-  w = 5
-  resultado = numeros_divisiveis(x, y, w)
-  puts resultado.inspect
 
 end
