@@ -35,3 +35,4 @@ view?
 
 * Views (Visualizações): As visualizações representam a camada de apresentação do aplicativo e geralmente estão localizadas na pasta app/views. Dentro dessa pasta, você encontrará subpastas correspondentes a cada controlador, com os nomes no plural (por exemplo, users para um controlador UsersController). As visualizações para um controlador específico são armazenadas nessa subpasta.
 
+![Screenshot from 2023-10-17 06-55-10](https://github.com/Hegnon/tt2/assets/111914933/9b04f509-8c5c-4781-b835-2f6acba5cc4f)
