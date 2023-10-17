@@ -27,7 +27,7 @@ Apesar das inúmeras vantagens, a arquitetura MVC também apresenta desvantagens
  - [ ] Usando Ruby on Rails, cite pelo menos uma forma de criar uma rota para um método
 chamado find_user dentro de um controller com o nome UsersController.
 
- - [ ]Considerando a estrutura padrão de arquivos de um projeto feito com Ruby on Rails, em
+ - [ ] Considerando a estrutura padrão de arquivos de um projeto feito com Ruby on Rails, em
 quais pastas devem se encontrar os models, os controllers e as views de um projeto? De
 que modo é possível saber qual controller é responsável por gerenciar uma determinada
 view?
