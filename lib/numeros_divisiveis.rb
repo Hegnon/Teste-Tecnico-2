@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 require_relative "numeros_divisiveis/version"
+
 module NumerosDivisiveis
-  class Error < StandardError; end
-  def self.numeros_divisiveis(x, y, w)
+    def self.numeros_divisiveis(x, y, w)
     numeros_divisiveis = []
 
     (x..y).each do |numero|
@@ -11,7 +11,8 @@ module NumerosDivisiveis
       end
     end
 
-    return numeros_divisiveis
+    numeros_divisiveis
   end
-
 end
+
+
