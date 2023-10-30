@@ -2,8 +2,7 @@ Teste Técnico
 
 - [x] Escreva um método que dado um inteiro x, um inteiro y e um inteiro w retorne todos os
 números divisíveis por w entre x e y.
-https://github.com/users/Hegnon/projects/15/views/1
-https://github.com/Hegnon/tt2/tree/main/divisiveis%20por%20w
+https://github.com/users/Hegnon/projects/15/views/1 - https://github.com/Hegnon/tt2/tree/main/divisiveis%20por%20w
 
 - [ ] Em um sistema web, cada usuário pode se inscrever em diversos eventos, cada evento
 possui até 3 prêmios que são distribuídos entre os usuários presentes. O sistema precisa
